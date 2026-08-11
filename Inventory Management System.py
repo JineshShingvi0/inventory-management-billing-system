@@ -6,8 +6,8 @@ class InventorySystem:
 
     def __init__(self):
 
-        self.path = "/userdata/administrator/Desktop/git-test/Inventory-Management-System-Billing-System/Inventory.json"
-        self.sales_path = "/userdata/administrator/Desktop/git-test/Inventory-Management-System-Billing-System/sales.json"
+        self.path = "/userdata/administrator/Desktop/git-test/inventory-management-billing-system/Inventory.json"
+        self.sales_path = "/userdata/administrator/Desktop/git-test/inventory-management-billing-system/sales.json"
 
         # Load inventory
         try:

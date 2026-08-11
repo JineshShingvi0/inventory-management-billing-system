@@ -4,7 +4,7 @@
         "category": "oil",
         "purchase price": 450.0,
         "selling price": 600.0,
-        "stock": 90,
+        "stock": 80,
         "ms": 10
     },
     "1002": {
@@ -12,7 +12,7 @@
         "category": "oil",
         "purchase price": 350.0,
         "selling price": 500.0,
-        "stock": 60,
+        "stock": 50,
         "ms": 10
     }
 }
