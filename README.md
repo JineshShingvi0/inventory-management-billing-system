@@ -61,3 +61,26 @@ JSON files are used for data persistence.
 - PDF invoices
 - User authentication
 - Backup and restore
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Product Management
+![Product Management](screenshots/product-management.png)
+
+### Billing
+![Billing](screenshots/billing.png)
+
+### Sales History
+![Sales History](screenshots/sales-history.png)
+
+### Customer Purchase History
+![Customer History](screenshots/customer-history.png)
+
+### Business Report
+![Business Report](screenshots/business-report.png)
+
+### Inventory Report
+![Inventory Report](screenshots/inventory-report.png)
